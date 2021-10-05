@@ -1,6 +1,6 @@
 var nome;
 
-nome = window.prompt('Escolha um nome de usuário')
+nome = window.prompt('Digite seu nome')
 
 let order = [];
 let clickedOrder = [];
@@ -86,7 +86,7 @@ let nextLevel = () => {
 
 //função para game over
 let gameOver = () => {
-    alert(`Que pena, ` + nome + `. \nvocê perdeu!\nSua pontuação é: ${score}!\nClieque em Ok para tentar novamente`);
+    alert(`Que pena, ` + nome + `. \nVocê perdeu!\nSua pontuação é: ${score}!\nClique em Ok para tentar novamente`);
     order = [];
     clickedOrder = []
 
