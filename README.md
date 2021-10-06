@@ -1,4 +1,4 @@
-# Jogo Genius#
+# Jogo Genius
 
 Fiz o código com a professora e depois modifiquei algumas coisas à meu gosto:
 
